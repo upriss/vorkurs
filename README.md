@@ -12,7 +12,7 @@ Zu den Themen, die in diesem Kurs behandelt werden, haben wir Übungsaufgaben au
 
 1. Grundlagen
 
-2. Rechengesetze
+2. Rechengesetze<br>
 Rechenregeln: Aufgabe 1.6 - 1.11 (Seite 29)
 Binomische Formeln: Aufgabe 1.12 - 1.13 (Seite 30)
 
