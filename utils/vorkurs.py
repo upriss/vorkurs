@@ -103,12 +103,15 @@ def exponential ():
     ax.set_xlim(0, 30)
     ax.set_ylim(0, 500)
     
+Berechnen_Sie_5_Prozent_Von_13 = 0.05*13
 Berechnen_Sie_6_Prozent_Von_80 = 0.06*80
 Berechnen_Sie_32_Prozent_Von_17 = 0.32*17
-Preis_15_Euro_plus_Mehrwertssteuer = 15 * 1.19
-Preis_1_Euro_plus_Mehrwertssteuer = 1 * 1.19
-Preis_1000_Euro_plus_Mehrwertssteuer = 1000 * 1.19
+Preis_15_Euro_plus_Mehrwertsteuer = 15 * 1.19
+Preis_1_Euro_plus_Mehrwertsteuer = 1 * 1.19
+Preis_1000_Euro_plus_Mehrwertsteuer = 1000 * 1.19
 Betrag_von_50_Euro_nach_3_Prozent_Abzahlung = 50 * 0.97
+Betrag_von_50_Euro_nach_7_Prozent_Abzahlung = 50 * 0.93
+Betrag_von_1000_Euro_nach_10_Prozent_Abzahlung = 1000 * 0.9
 bei_50_Prozent_Wachstum = 7000 * 1.5
 bei_100_Prozent_Wachstum = 7000 * 2
 bei_200_Prozent_Wachstum = 7000 * 3

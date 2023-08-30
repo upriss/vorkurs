@@ -20,6 +20,7 @@ Binomische Formeln: Aufgabe 1.12 - 1.13 (Seite 30)
 Aufgabe 3.1 - 3.7 (Seite 96)
 
 4. Prozentrechnung
+Test am Ende des Notebooks für Prozentrechnung
 
 5. Gleichungen<br>
 Lineare Gleichungen: Aufgabe 6.1 (Seite 255)<br>
@@ -32,7 +33,7 @@ Potenzen: Aufgabe 3.8 - 3.11 (Seite 98)<br>
 Wurzeln: Aufgabe 3.12 - 3.15 (Seite 99)<br>
 Logarithmen: Aufgabe 3.16 - 3.19 (Seite 101)
 
-7. Trigonometrie
+7. Trigonometrie (fehlt im Moment noch, kommt demnächst_
 
 8. Mengen<br>
 Aufgabe 1.1 - 1.5 (Seite 27)
@@ -43,3 +44,4 @@ Produkte: Aufgabe 4.8 - 4.9 (Seite 150)<br>
 Binomial Koeffizienten: Aufgabe 4.10 (Seite 151)
 
 10. Funktionen
+Test am Ende des Notebooks für Funktionen
