@@ -22,6 +22,6 @@ Nachdem das Jupyter-Lab vollständig geladen ist, erreichen Sie die Kursmaterial
     
 * Links auf 0_Einleitung.ipynb klicken, um das erste Notebook zu öffnen.
 
-Screenshot zu Jupyter-Notebooks:
+# Screenshot:
 
 ![Screenshot](./utils/jupyter1.jpg)
