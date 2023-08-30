@@ -8,7 +8,12 @@ Um die Notebooks zu verwenden, benötigen Sie die Jupyter-Software. Sie können 
     
 * "Ostfalia" auswählen und mit dem normalen Ostfalia-Passwort anmelden.
 
-(Hinweis: falls Sie nicht die Cloud verwenden, sondern die Software auf Ihrem eigenen Rechner installieren, tun Sie das auf eigene Gefahr hin. Ich empfehle das nur für Leute, die sich schon mit Github auskennen. Es gelten die üblichen Sicherheitsbedenken: laden Sie keine Jupyter-Notebooks aus dubiosen Quellen auf Ihren Rechner, da diese schädliche Software auf Ihrem Rechner installieren könnten.) 
+# Falls Sie noch keinen Ostfalia-Login haben:
+
+Sie können die Notebooks auch über diesen Link starten. Sie müssen aber etwas Geduld haben, bis das fertig geladen ist. Beim ersten Start kann es bis zu 10 Minuten dauern. Wenn Sie diese Umgebung mehrfach verwenden oder mehrere Leute die Umgebung verwenden, geht es deutlich schneller. Außerdem können Sie in der Umgebung nichts speichern und Sie müssen das Browser-Fenster im Vordergrund lassen.
+
+Link: https://mybinder.org/v2/gh/upriss/vorkurs/master
+
 
 # Mit Jupyter arbeiten
 
