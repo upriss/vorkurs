@@ -8,7 +8,7 @@ Zusätzlich zu den online-Materialien steht ein Lehrbuch über die Ostfalia-Bibl
 
 # Kurzanleitung für die Jupyter-Notebooks
 
-<a href="AnleitungJupyterNotebooks.md">
+<a href="AnleitungJupyterNotebooks.md">Hier</a>
 
 # Themen und Lernziele
 
