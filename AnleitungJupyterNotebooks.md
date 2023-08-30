@@ -41,7 +41,5 @@ Sie müssen aber etwas Geduld haben, bis das fertig geladen ist. Beim ersten Sta
 das folgendermaßen ändern:
 
     !pip install matplotlib
-
     !pip install sympy
-
     from utils.vorkurs import *
