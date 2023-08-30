@@ -10,10 +10,7 @@ Um die Notebooks zu verwenden, benötigen Sie die Jupyter-Software. Sie können 
 
 # Falls Sie noch keinen Ostfalia-Login haben:
 
-Sie können die Notebooks auch über diesen Link starten. Sie müssen aber etwas Geduld haben, bis das fertig geladen ist. Beim ersten Start kann es bis zu 10 Minuten dauern. Wenn Sie diese Umgebung mehrfach verwenden oder mehrere Leute die Umgebung verwenden, geht es deutlich schneller. Außerdem können Sie in der Umgebung nichts speichern und Sie müssen das Browser-Fenster im Vordergrund lassen.
-
-Link: https://mybinder.org/v2/gh/upriss/vorkurs/master
-
+Siehe weiter unten
 
 # Mit Jupyter arbeiten
 
@@ -30,3 +27,19 @@ Nachdem das Jupyter-Lab vollständig geladen ist, erreichen Sie die Kursmaterial
 # Screenshot:
 
 ![Screenshot](./utils/jupyter1.jpg)
+
+# Falls Sie noch keinen Ostfalia-Login haben:
+
+Sie können die Notebooks auch über diesen Link starten. 
+
+https://mybinder.org/v2/gh/upriss/vorkurs/master
+
+Sie müssen aber etwas Geduld haben, bis das fertig geladen ist. Beim ersten Start kann es bis zu 10 Minuten dauern. Wenn Sie diese Umgebung mehrfach verwenden oder mehrere Leute die Umgebung verwenden, geht es deutlich schneller. Sie können in der Umgebung nichts speichern und müssen das Browser-Fenster im Vordergrund lassen. Außerdem müssen Sie das erste Mal, wenn Sie ein Feld ausführen, in dem 
+
+from utils.vorkurs import *
+
+das folgendermaßen ändern:
+
+!pip install matplotlib
+!pip install sympy
+from utils.vorkurs import *
