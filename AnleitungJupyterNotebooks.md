@@ -10,7 +10,7 @@ Um die Notebooks zu verwenden, benötigen Sie die Jupyter-Software. Sie können 
 
 # Falls Sie noch keinen Ostfalia-Login haben:
 
-Siehe weiter unten
+Lesen Sie die Informationen weiter unten.
 
 # Mit Jupyter arbeiten
 
