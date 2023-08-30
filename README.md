@@ -49,5 +49,5 @@ Summen: Aufgabe 4.1 - 4.2 (Seite 143)<br>
 Produkte: Aufgabe 4.8 - 4.9 (Seite 150)<br>
 Binomial Koeffizienten: Aufgabe 4.10 (Seite 151)
 
-10. Funktionen
+10. Funktionen<br>
 Test am Ende des Notebooks für Funktionen
