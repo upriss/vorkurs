@@ -6,6 +6,12 @@ Zusätzlich zu den online-Materialien steht ein Lehrbuch über die Ostfalia-Bibl
 
 <a href="https://doi.org/10.1007/978-3-662-57494-2">Buch: Cramer & Neslehova: Vorkurs Mathematik - Arbeitsbuch zum Studienbeginn</a>
 
+# Kurzanleitung für die Jupyter-Notebooks
+
+<a href="AnleitungJupyterNotebooks.md">
+
+# Themen und Lernziele
+
 Zu den Themen, die in diesem Kurs behandelt werden, haben wir Übungsaufgaben aus dem Buch von Cramer & Neslehova identifiziert, mit denen Sie Ihr Wissen überprüfen können. Das Lernziel ist, dass Sie derartige Übungsaufgaben verstehen und lösen können.
 
 0. Einleitung
