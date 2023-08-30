@@ -10,6 +10,10 @@ Zusätzlich zu den online-Materialien steht ein Lehrbuch über die Ostfalia-Bibl
 
 befindet sich <a href="AnleitungJupyterNotebooks.md">hier</a>.
 
+# Folien des ersten Besprechungstermins
+
+<a href="utils/folien1.pdf">Folien 1</a>
+
 # Themen und Lernziele
 
 Zu den Themen, die in diesem Kurs behandelt werden, haben wir Übungsaufgaben aus dem Buch von Cramer & Neslehova identifiziert, mit denen Sie Ihr Wissen überprüfen können. Das Lernziel ist, dass Sie derartige Übungsaufgaben verstehen und lösen können.
