@@ -36,12 +36,12 @@ https://mybinder.org/v2/gh/upriss/vorkurs/master
 
 Sie müssen aber etwas Geduld haben, bis das fertig geladen ist. Beim ersten Start kann es bis zu 10 Minuten dauern. Wenn Sie diese Umgebung mehrfach verwenden oder mehrere Leute die Umgebung verwenden, geht es deutlich schneller. Sie können in der Umgebung nichts speichern und müssen das Browser-Fenster im Vordergrund lassen. Außerdem müssen Sie das erste Mal, wenn Sie ein Feld ausführen, in dem dieses steht
 
-from utils.vorkurs import *
+    from utils.vorkurs import *
 
 das folgendermaßen ändern:
 
-!pip install matplotlib
+    !pip install matplotlib
 
-!pip install sympy
+    !pip install sympy
 
-from utils.vorkurs import *
+    from utils.vorkurs import *
