@@ -43,7 +43,8 @@ Potenzen: Aufgabe 3.8 - 3.11 (Seite 98)<br>
 Wurzeln: Aufgabe 3.12 - 3.15 (Seite 99)<br>
 Logarithmen: Aufgabe 3.16 - 3.19 (Seite 101)
 
-7. Trigonometrie (fehlt im Moment noch, kommt demnächst)
+7. Trigonometrie<br>
+Test am Ende des Notebooks für Trigonometrie
 
 8. Mengen<br>
 Aufgabe 1.1 - 1.5 (Seite 27)
