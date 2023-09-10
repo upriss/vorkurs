@@ -10,6 +10,8 @@ Zusätzlich zu den online-Materialien steht ein Lehrbuch über die Ostfalia-Bibl
 
 befindet sich <a href="AnleitungJupyterNotebooks.md">hier</a>.
 
+Bug: die eingebetteten Multiple Choice-Fragen scheinen im Moment nicht mit dem Chrome-Browser zu funktionieren. Mit Firefox funktionieren sie.
+
 # Folien des ersten Besprechungstermins
 
 <a href="utils/folien1.pdf">Folien 1</a>
