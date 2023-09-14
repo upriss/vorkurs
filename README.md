@@ -12,9 +12,11 @@ befindet sich <a href="AnleitungJupyterNotebooks.md">hier</a>.
 
 Bug: die eingebetteten Multiple Choice-Fragen scheinen im Moment nicht mit dem Chrome-Browser zu funktionieren. Mit Firefox funktionieren sie.
 
-# Folien des ersten Besprechungstermins
+# Folien der Besprechungstermine
 
-<a href="utils/folien1.pdf">Folien 1</a>
+<a href="utils/folien1.pdf">Folien 1</a><br>
+<a href="utils/folien2.pdf">Folien 2</a><br>
+<a href="utils/folien3.pdf">Folien 3</a>
 
 # Themen und Lernziele
 
