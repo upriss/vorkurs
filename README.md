@@ -1,27 +1,24 @@
 # Vorkurs
 
-Jupyter Notebooks für einen Mathematik-Vorkurs der Ostfalia Hochschule für angewandte Wissenschaften.
+Die Übungsblätter für einen Mathematik-Vorkurs der Ostfalia Hochschule für angewandte Wissenschaften
+werden demnächst hier erscheinen.
 
 Zusätzlich zu den online-Materialien steht ein Lehrbuch über die Ostfalia-Bibliothek zur Verfügung, das Sie kostenlos online lesen können, sobald Sie Ihren Ostfalia-Zugang haben:
 
 <a href="https://doi.org/10.1007/978-3-662-57494-2">Buch: Cramer & Neslehova: Vorkurs Mathematik - Arbeitsbuch zum Studienbeginn</a>
 
-# Kurzanleitung für die Jupyter-Notebooks
-
-befindet sich <a href="AnleitungJupyterNotebooks.md">hier</a>.
-
 Bug: die eingebetteten Multiple Choice-Fragen scheinen im Moment nicht mit dem Chrome-Browser zu funktionieren. Mit Firefox funktionieren sie.
 
 # Folien der Besprechungstermine
 
-<a href="utils/folien1.pdf">Folien 1</a><br>
-<a href="utils/folien2.pdf">Folien 2</a><br>
-<a href="utils/folien3.pdf">Folien 3</a><br>
-<a href="utils/folien4.pdf">Folien 4</a>
+<!--<a href="utils/folien1.pdf">Folien 1</a><br>-->
+<!--<a href="utils/folien2.pdf">Folien 2</a><br>-->
+<!--<a href="utils/folien3.pdf">Folien 3</a><br>-->
+<!--<a href="utils/folien4.pdf">Folien 4</a>-->
 
 # Themen und Lernziele
 
-Zu den Themen, die in diesem Kurs behandelt werden, haben wir Übungsaufgaben aus dem Buch von Cramer & Neslehova identifiziert, mit denen Sie Ihr Wissen überprüfen können. Das Lernziel ist, dass Sie derartige Übungsaufgaben verstehen und lösen können.
+Zu den Themen, die in diesem Kurs behandelt werden, wurden Übungsaufgaben aus dem Buch von Cramer & Neslehova identifiziert, mit denen Sie Ihr Wissen überprüfen können. Das Lernziel ist, dass Sie derartige Übungsaufgaben verstehen und lösen können.
 
 0. Einleitung
 
